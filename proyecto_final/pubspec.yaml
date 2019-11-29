@@ -1,0 +1,32 @@
+name: proyecto_final
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: any
+  sqflite:
+  path:
+  path_provider: ^1.4.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+        - assets/images/logo.png
+        - assets/images/logogo.png
+        - assets/images/blancologo.png
+        - data/menu_opts.json
+

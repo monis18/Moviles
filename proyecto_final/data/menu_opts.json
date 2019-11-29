@@ -1,0 +1,1873 @@
+{
+    "nombreApp": "Componentes",
+    "preparatorias": [
+      {
+        "id": "1",
+        "nombre": "Preparatoria Independencia de R�o Grande",
+        "clave": "32PBH0002I",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        "id": "2",
+        "nombre": "Juana de Arco",
+        "clave": "32PBH0003H",
+        "subnivel_id": "2",
+        "municipio_id":  "2461"
+      },
+      {
+        "id": "3",
+        "nombre": "Colegio del Centro",
+        "clave": "32PBH0005F",
+        "subnivel_id": "2",
+        "municipio_id":  "2461"
+      },
+      {
+        "id": "4",
+        "nombre": "Escuela Prep Instituto Zacatecas",
+        "clave": "32PBH0018J",
+        "subnivel_id": "2",
+        "municipio_id":  "2422"
+      },
+      {
+        "id": "5",
+        "nombre": "Instituto Tecnol�gico y de Estudios Superiores de Monterrey Campus Zacatecas",
+        "clave": "32PBH0036Z",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        "id": "6",
+        "nombre": "Preparatoria UAF",
+        "clave": "32PBH0042J",
+        "subnivel_id": "2",
+        "municipio_id":  "2415"
+      },
+      {
+        "id": "7",
+        "nombre": "Preparatoria Vetagrande",
+        "clave": "32PBH0050S",
+        "subnivel_id": "2",
+        "municipio_id":"2455"
+      },
+      {
+        "id": "8",
+        "nombre": "Instituto Pedag�gico J. Peaget",
+        "clave": "32PBH0051R",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+  
+      {
+        
+        "id": "9",
+        "nombre": "Instituto Educativo de Zacatecas",
+        "clave": "32PBH0052Q",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "10",
+        "nombre": "Colegio Federico Froebel",
+        "clave": "32PBH0053P",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "11",
+        "nombre": "Centro Escolar Lancaster de Zacatecas",
+        "clave": "32PBH0056M",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "12",
+        "nombre": "Universidad Aut�noma de Durango Campus Zacatecas",
+        "clave": "32PBH0060Z",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "13",
+        "nombre": "Lic. Jos� Minero Roque",
+        "clave": "32PBH0065U",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        
+        "id": "14",
+        "nombre": "Preparatoria Comercial Sor Juana In�s de La Cruz",
+        "clave": "32PBH0069Q",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "15",
+        "nombre": "Academia Comercial Remington",
+        "clave": "32PBH0070F",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "16",
+        "nombre": "Preparatoria San Mat�as",
+        "clave": "32PBH0071E",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "17",
+        "nombre": "Instituto Maxwell",
+        "clave": "32PBH0077Z",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "18",
+        "nombre": "Colegio Juan Pablo Ii",
+        "clave": "32PBH0078Y",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "19",
+        "nombre": "Colegio Daniel M�rquez Medina A.C.",
+        "clave": "32PBH0079X",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "20",
+        "nombre": "Colegio Santa Elena",
+        "clave": "32PBH0080M",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "21",
+        "nombre": "Instituto de Formaci�n Integral de Zacatecas",
+        "clave": "32PBH0082K",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "22",
+        "nombre": "Escuela Preparatoria Particular Ram�n  L�pez Velarde",
+        "clave": "32PBH0085H",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "23",
+        "nombre": "Instituto Ausubel",
+        "clave": "32PBH0086G",
+        "subnivel_id": "2",
+        "municipio_id": "2429"
+      },
+      {
+        
+        "id": "24",
+        "clave": "32PBH0088E",
+        "nombre": "Instituto Educativo Nochistlan",
+        "subnivel_id": "2",
+        "municipio_id": "2439"
+      },
+      {
+        
+        "id": "25",
+        "nombre": "Liceo E.S.L. Guadalupe",
+        "clave": "32PBH0092R",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "26",
+        "nombre": "Liceo Universitario Guadalupe",
+        "clave": "32PBH0093Q",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "27",
+        "nombre": "Instituto del Carmen de Guadalupe",
+        "clave": "32PBH0094P",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "28",
+        "nombre": "Instituto de Educaci�n MONREAL Sandoval",
+        "clave": "32PBH0096N",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "29",
+        "nombre": "CONSEJO Educativo de Zacatecas",
+        "clave": "32PBH0097M",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "30",
+        "nombre": "Colegio Juan Pablo Ii El Grande",
+        "clave": "32PBH0098L",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "31",
+        "nombre": "Superior Teaching Preparatoria",
+        "clave": "32PBH0102H",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "32",
+        "nombre": "Bachillerato General Sierra Madre",
+        "clave": "32PBH0105E",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "33",
+        "nombre": "Instituto Educativo de Calera",
+        "clave": "32PBH0106D",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        
+        "id": "34",
+        "nombre": "Instituto Asis de Guadalupe",
+        "clave": "32PBH0107C",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "35",
+        "nombre": "Colegio R�o Grande",
+        "clave": "32PBH0108B",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "36",
+        "nombre": "Instituto Edison Ac",
+        "clave": "32PCB0021B",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "37",
+        "nombre": "Cultura  Educaci�n de Fresnillo Asociaci�n Civil",
+        "clave": "32PCB0022A",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "38",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32DMS0001Q",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "39",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32DMS0002P",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "40",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32DMS0003O",
+        "subnivel_id": "2",
+        "municipio_id": "2434"
+      },
+      {
+        
+        "id": "41",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0001P",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "42",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0002O",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "43",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0003N",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "44",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0004M",
+        "subnivel_id": "2",
+        "municipio_id": "2440"
+      },
+      {
+        
+        "id": "45",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0005L",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "46",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0006K",
+        "subnivel_id": "2",
+        "municipio_id": "2419"
+      },
+      {
+        
+        "id": "47",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0007J",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "48",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0010X",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "49",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0012V",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "50",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0013U",
+        "subnivel_id": "2",
+        "municipio_id": "2431"
+      },
+      {
+        
+        "id": "51",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0014T",
+        "subnivel_id": "2",
+        "municipio_id": "2431"
+      },
+      {
+        
+        "id": "52",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0015S",
+        "subnivel_id": "2",
+        "municipio_id": "2459"
+      },
+      {
+        
+        "id": "53",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0016R",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "54",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0017Q",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "55",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0018P",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "56",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0019O",
+        "subnivel_id": "2",
+        "municipio_id": "2431"
+      },
+      {
+        
+        "id": "57",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0021C",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "58",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0022B",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "59",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0023A",
+        "subnivel_id": "2",
+        "municipio_id": "2449"
+      },
+      {
+        
+        "id": "60",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0024Z",
+        "subnivel_id": "2",
+        "municipio_id": "2455"
+      },
+      {
+        
+        "id": "61",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0025Z",
+        "subnivel_id": "2",
+        "municipio_id": "2452"
+      },
+      {
+        
+        "id": "62",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0026Y",
+        "subnivel_id": "2",
+        "municipio_id": "2407"
+      },
+      {
+        
+        "id": "63",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0027X",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "64",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0028W",
+        "subnivel_id": "2",
+        "municipio_id": "2421"
+      },
+      {
+        
+        "id": "65",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0029V",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "66",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0030K",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "67",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0031J",
+        "subnivel_id": "2",
+        "municipio_id": "2447"
+      },
+      {
+        
+        "id": "68",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0032I",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        
+        "id": "69",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0033H",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "70",
+        "nombre": "El Cazadero",
+        "clave": "32EMS0035F",
+        "subnivel_id": "2",
+        "municipio_id": "2445"
+      },
+      {
+        
+        "id": "71",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0036E",
+        "subnivel_id": "2",
+        "municipio_id": "2421"
+      },
+      {
+        
+        "id": "72",
+        "nombre": "Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0037D",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "73",
+        "nombre": "Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0038C",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "74",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0039B",
+        "subnivel_id": "2",
+        "municipio_id": "2460"
+      },
+      {
+        
+        "id": "75",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0040R",
+        "subnivel_id": "2",
+        "municipio_id": "2455"
+      },
+      {
+        
+        "id": "76",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0041Q",
+        "subnivel_id": "2",
+        "municipio_id": "2462"
+      },
+      {
+        
+        "id": "77",
+        "nombre": "Centro de Servicios de Educaci�n Media Superior A Distancia",
+        "clave": "32EMS0042P",
+        "subnivel_id": "2",
+        "municipio_id": "2429"
+      },
+      {
+        
+        "id": "78",
+        "nombre": "Profr. Jos� Santos Valdez",
+        "clave": "32DBP0002M",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "79",
+        "nombre": "Lic. Mauricio Magdaleno",
+        "clave": "32EBH0001D",
+        "subnivel_id": "2",
+        "municipio_id": "2449"
+      },
+      {
+        
+        "id": "80",
+        "nombre": "Jos� G Montes",
+        "clave": "32EBH0002C",
+        "subnivel_id": "2",
+        "municipio_id": "2453"
+      },
+      {
+        
+        "id": "81",
+        "nombre": "Profa. Ma de La O Mar�n Mota",
+        "clave": "32EBH0003B",
+        "subnivel_id": "2",
+        "municipio_id": "2435"
+      },
+      {
+        
+        "id": "82",
+        "nombre": "Francisco Garc�a Salinas",
+        "clave": "32EBH0006Z",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "83",
+        "nombre": "Escuela Preparatoria Jos� Rodr�guez El�as",
+        "clave": "32EBH0007Y",
+        "subnivel_id": "2",
+        "municipio_id": "2428"
+      },
+      {
+        
+        "id": "84",
+        "nombre": "Valent�n G�mez Far�as",
+        "clave": "32EBH0008X",
+        "subnivel_id": "2",
+        "municipio_id": "2436"
+      },
+      {
+        
+        "id": "85",
+        "nombre": "Prof. Salvador Vidal G",
+        "clave": "32EBH0009W",
+        "subnivel_id": "2",
+        "municipio_id": "2451"
+      },
+      {
+        
+        "id": "86",
+        "nombre": "Gonz�lez Ortega",
+        "clave": "32EBH0011K",
+        "subnivel_id": "2",
+        "municipio_id": "2452"
+      },
+      {
+        
+        "id": "87",
+        "nombre": "Ing.  Gral. Felipe B. Berriozabal",
+        "clave": "32EBH0019C",
+        "subnivel_id": "2",
+        "municipio_id": "2424"
+      },
+      {
+        
+        "id": "88",
+        "nombre": "Gral Lazaro Cardenas",
+        "clave": "32EBH0020S",
+        "subnivel_id": "2",
+        "municipio_id": "2439"
+      },
+      {
+        
+        "id": "89",
+        "nombre": "Victor Rosales",
+        "clave": "32EBH0027L",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        
+        "id": "90",
+        "nombre": "Preparatoria Villanueva",
+        "clave": "32EBH0028K",
+        "subnivel_id": "2",
+        "municipio_id": "2460"
+      },
+      {
+        
+        "id": "91",
+        "nombre": "Candelario Huizar",
+        "clave": "32EBH0030Z",
+        "subnivel_id": "2",
+        "municipio_id": "2460"
+      },
+      {
+        
+        "id": "92",
+        "nombre": "Panfilo Natera",
+        "clave": "32EBH0031Y",
+        "subnivel_id": "2",
+        "municipio_id": "2421"
+      },
+      {
+        
+        "id": "93",
+        "nombre": "Lazaro Cardenas del R�o",
+        "clave": "32EBH0032X",
+        "subnivel_id": "2",
+        "municipio_id": "2447"
+      },
+      {
+        
+        "id": "94",
+        "nombre": "Jos� Vasconcelos",
+        "clave": "32EBH0033W",
+        "subnivel_id": "2",
+        "municipio_id": "2431"
+      },
+      {
+        
+        "id": "95",
+        "nombre": "Beatriz M�rquez Acosta",
+        "clave": "32EBH0034V",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "96",
+        "nombre": "Ram�n  L�pez Velarde",
+        "clave": "32EBH0035U",
+        "subnivel_id": "2",
+        "municipio_id": "2432"
+      },
+      {
+        
+        "id": "97",
+        "nombre": "Adolfo L�pez Mateos",
+        "clave": "32EBH0036T",
+        "subnivel_id": "2",
+        "municipio_id": "2447"
+      },
+      {
+        
+        "id": "98",
+        "nombre": "Jaime Torres Bodet",
+        "clave": "32EBH0037S",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "99",
+        "nombre": "Tayahua",
+        "clave": "32EBH0038R",
+        "subnivel_id": "2",
+        "municipio_id": "2460"
+      },
+      {
+        
+        "id": "100",
+        "nombre": "Genaro Codina",
+        "clave": "32EBH0039Q",
+        "subnivel_id": "2",
+        "municipio_id": "2449"
+      },
+      {
+        
+        "id": "101",
+        "nombre": "Lic. Agust�n Ya�ez",
+        "clave": "32EBH0040F",
+        "subnivel_id": "2",
+        "municipio_id": "2423"
+      },
+      {
+        
+        "id": "102",
+        "nombre": "Felix U G�mez",
+        "clave": "32EBH0041E",
+        "subnivel_id": "2",
+        "municipio_id": "2446"
+      },
+      {
+        
+        "id": "103",
+        "nombre": "Francisco Goitia",
+        "clave": "32EBH0042D",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "104",
+        "nombre": "Jes�s Reyes Heroles",
+        "clave": "32EBH0043C",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "105",
+        "nombre": "Daniel Camarena",
+        "clave": "32EBH0044B",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "106",
+        "nombre": "Genaro Codina",
+        "clave": "32EBH0045A",
+        "subnivel_id": "2",
+        "municipio_id": "2439"
+      },
+      {
+        
+        "id": "107",
+        "nombre": "Eulalio Guti�rrez",
+        "clave": "32EBH0046Z",
+        "subnivel_id": "2",
+        "municipio_id": "2412"
+      },
+      {
+        
+        "id": "108",
+        "nombre": "Salvador Varela Resendiz",
+        "clave": "32EBH0048Y",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "109",
+        "nombre": "Colegio de Bachilleres ZACATECAS",
+        "clave": "32ECB0001I",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "110",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0002H",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "111",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0003G",
+        "subnivel_id": "2",
+        "municipio_id": "2458"
+      },
+      {
+        
+        "id": "112",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0005E",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "113",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0006D",
+        "subnivel_id": "2",
+        "municipio_id": "2447"
+      },
+      {
+        
+        "id": "114",
+        "nombre": "Colegio de Bachilleres Ojocaliente",
+        "clave": "32ECB0007C",
+        "subnivel_id": "2",
+        "municipio_id": "2441"
+      },
+      {
+        
+        "id": "115",
+        "nombre": "Colegio de Bachilleres Pinos",
+        "clave": "32ECB0008B",
+        "subnivel_id": "2",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "116",
+        "nombre": "Colegio de Bachilleres Sain Alto",
+        "clave": "32ECB0009A",
+        "subnivel_id": "2",
+        "municipio_id": "2445"
+      },
+      {
+        
+        "id": "117",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0010Q",
+        "subnivel_id": "2",
+        "municipio_id": "2414"
+      },
+      {
+        
+        "id": "118",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0011P",
+        "subnivel_id": "2",
+        "municipio_id": "2406"
+      },
+      {
+        
+        "id": "119",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0012O",
+        "subnivel_id": "2",
+        "municipio_id": "2407"
+      },
+      {
+        
+        "id": "120",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0013N",
+        "subnivel_id": "2",
+        "municipio_id": "2408"
+      },
+      {
+        
+        "id": "121",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0014M",
+        "subnivel_id": "2",
+        "municipio_id": "2409"
+      },
+      {
+        
+        "id": "122",
+        "nombre": "Colegio de Bachilleres Plantel Ca�itas de Felipe Pescador",
+        "clave": "32ECB0015L",
+        "subnivel_id": "2",
+        "municipio_id": "2411"
+      },
+      {
+        
+        "id": "123",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0016K",
+        "subnivel_id": "2",
+        "municipio_id": "2413"
+      },
+      {
+        
+        "id": "124",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0017J",
+        "subnivel_id": "2",
+        "municipio_id": "2416"
+      },
+      {
+        
+        "id": "125",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0018I",
+        "subnivel_id": "2",
+        "municipio_id": "2417"
+      },
+      {
+        
+        "id": "126",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0019H",
+        "subnivel_id": "2",
+        "municipio_id": "2418"
+      },
+      {
+        
+        "id": "127",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0020X",
+        "subnivel_id": "2",
+        "municipio_id": "2420"
+      },
+      {
+        
+        "id": "128",
+        "nombre": "Luis de La Rosa Oteiza",
+        "clave": "32ECB0022V",
+        "subnivel_id": "2",
+        "municipio_id": "2429"
+      },
+      {
+        
+        "id": "129",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0023U",
+        "subnivel_id": "2",
+        "municipio_id": "2430"
+      },
+      {
+        
+        "id": "130",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0024T",
+        "subnivel_id": "2",
+        "municipio_id": "2433"
+      },
+      {
+        
+        "id": "131",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0025S",
+        "subnivel_id": "2",
+        "municipio_id": "2434"
+      },
+      {
+        
+        "id": "132",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0026R",
+        "subnivel_id": "2",
+        "municipio_id": "2437"
+      },
+      {
+        
+        "id": "133",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0027Q",
+        "subnivel_id": "2",
+        "municipio_id": "2440"
+      },
+      {
+        
+        "id": "134",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0028P",
+        "subnivel_id": "2",
+        "municipio_id": "2442"
+      },
+      {
+        
+        "id": "135",
+        "nombre": "Colegio de Bachilleres Plantel Sombrerete",
+        "clave": "32ECB0029O",
+        "subnivel_id": "2",
+        "municipio_id": "2447"
+      },
+      {
+        
+        "id": "136",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0030D",
+        "subnivel_id": "2",
+        "municipio_id": "2463"
+      },
+      {
+        
+        "id": "137",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0031C",
+        "subnivel_id": "2",
+        "municipio_id": "2457"
+      },
+      {
+        
+        "id": "138",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0032B",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "139",
+        "nombre": "Colegio de Bachilleres Victor Rosales",
+        "clave": "32ECB0033A",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "140",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0034Z",
+        "subnivel_id": "2",
+        "municipio_id": "2426"
+      },
+      {
+        
+        "id": "141",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0035Z",
+        "subnivel_id": "2",
+        "municipio_id": "2436"
+      },
+      {
+        
+        "id": "142",
+        "nombre": "Colegio de Bachilleres Roberto Cabral del Hoyo",
+        "clave": "32ECB0036Y",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "143",
+        "nombre": "Colegio de Bachilleres",
+        "clave": "32ECB0037X",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "144",
+        "nombre": "Colegio de Bachilleres Plantel EL Fuerte",
+        "clave": "32ECB0038W",
+        "subnivel_id": "2",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "145",
+        "nombre": "Colegio de Bachilleres Plantel Trancoso",
+        "clave": "32ECB0039V",
+        "subnivel_id": "2",
+        "municipio_id": "2462"
+      },
+      {
+        
+        "id": "146",
+        "nombre": "Colegio de Bachilleres Plantel Chaparrosa",
+        "clave": "32ECB0040K",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "147",
+        "nombre": "Colegio de Bachilleres Plantel Los Campos",
+        "clave": "32ECB0041J",
+        "subnivel_id": "2",
+        "municipio_id": "2457"
+      },
+      {
+        
+        "id": "148",
+        "nombre": "Preparatoria N�m. 1",
+        "clave": "32UBH0001V",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {"id": "149",
+      "nombre": "Preparatoria N�m. 1",
+      "clave": "32UBH0001V",
+      "subnivel_id": "2",
+      "municipio_id": "2461"},
+      {
+        
+        "id": "150",
+        "nombre": "Preparatoria N�m. 2",
+        "clave": "32UBH0002U",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "151",
+        "nombre": "Preparatoria N�m. 2",
+        "clave": "32UBH0002U",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "152",
+        "nombre": "Preparatoria N�m. 3",
+        "clave": "32UBH0003T",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "153",
+        "nombre": "Preparatoria N�m. 3",
+        "clave": "32UBH0003T",
+        "subnivel_id": "2",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "154",
+        "nombre": "Preparatoria N�m. 4",
+        "clave": "32UBH0004S",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "155",
+        "nombre": "Preparatoria N�m. 4",
+        "clave": "32UBH0004S",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "156",
+        "nombre": "Preparatoria N�m. 5",
+        "clave": "32UBH0005R",
+        "subnivel_id": "2",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "157",
+        "nombre": "Preparatoria N�m. 6",
+        "clave": "32UBH0006Q",
+        "subnivel_id": "2",
+        "municipio_id": "2462"
+      },
+      {
+        
+        "id": "158",
+        "nombre": "Preparatoria N�m. 7",
+        "clave": "32UBH0007P",
+        "subnivel_id": "2",
+        "municipio_id": "2453"
+      },
+      {
+        
+        "id": "159",
+        "nombre": "Preparatoria N�m. 8",
+        "clave": "32UBH0008O",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        
+        "id": "160",
+        "nombre": "Preparatoria N�m. 9",
+        "clave": "32UBH0009N",
+        "subnivel_id": "2",
+        "municipio_id": "2419"
+      },
+      {
+        
+        "id": "161",
+        "nombre": "Preparatoria N�m. 10",
+        "clave": "32UBH0010C",
+        "subnivel_id": "2",
+        "municipio_id": "2439"
+      },
+      {
+        
+        "id": "162",
+        "nombre": "Preparatoria N�m. 10",
+        "clave": "32UBH0010C",
+        "subnivel_id": "2",
+        "municipio_id": "2439"
+      },
+      {
+        
+        "id": "163",
+        "nombre": "Preparatoria N�m. 11",
+        "clave": "32UBH0011B",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "164",
+        "nombre": "Preparatoria N�m. 12",
+        "clave": "32UBH0012A",
+        "subnivel_id": "2",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "165",
+        "nombre": "Preparatoria N�m. 13",
+        "clave": "32UBH0013Z",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "166",
+        "nombre": "Preparatoria N�m. 13",
+        "clave": "32UBH0013Z",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "167",
+        "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Estado Plantel  Victor Rosales",
+        "clave": "32ETC0001Y",
+        "subnivel_id": "1",
+        "municipio_id": "2410"
+      },
+      {"id": "168",
+      "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Estado  Plantel Tlaltenango",
+      "clave": "32ETC0002X",
+      "subnivel_id": "1",
+      "municipio_id": "2453"},
+      {
+        
+        "id": "169",
+        "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Estado  Plantel R�o Grande",
+        "clave": "32ETC0003W",
+        "subnivel_id": "1",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "170",
+        "nombre": "Cecyte Plantel San Jos� de Lourdes",
+        "clave": "32ETC0004V",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "171",
+        "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Edo.",
+        "clave": "32ETC0005U",
+        "subnivel_id": "1",
+        "municipio_id": "2443"
+      },
+      {
+        
+        "id": "172",
+        "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Estado",
+        "clave": "32ETC0006T",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "173",
+        "nombre": "Centro de Estudios Cient�ficos y Tecnol�gicos del Estado",
+        "clave": "32ETC0007S",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "174",
+        "nombre": "Colegio de Estudios Cient�ficos y Tecnol�gicos del Estado",
+        "clave": "32ETC0009Q",
+        "subnivel_id": "1",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "175",
+        "nombre": "Centro de Estudios Tecnol�gicos Industriales y de Servicios Num.147",
+        "clave": "32DCT0001Z",
+        "subnivel_id": "1",
+        "municipio_id": "2424"
+      },
+      {
+        
+        "id": "176",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 23",
+        "clave": "32DCT0085X",
+        "subnivel_id": "1",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "177",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 1",
+        "clave": "32DCT0138L",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "178",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 1",
+        "clave": "32DCT0138L",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "179",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 104",
+        "clave": "32DCT0348Q",
+        "subnivel_id": "1",
+        "municipio_id": "2447"
+      },
+      {"id": "180",
+      "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 141",
+      "clave": "32DCT0349P",
+      "subnivel_id": "1",
+      "municipio_id": "2427"},
+      {
+        
+        "id": "181",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 215",
+        "clave": "32DCT0350E",
+        "subnivel_id": "1",
+        "municipio_id": "2429"
+      },
+      {
+        
+        "id": "182",
+        "nombre": "Centro de Bachillerato Tecnol�gicos Industrial y de Servicios N�m. 221",
+        "clave": "32DCT0351D",
+        "subnivel_id": "1",
+        "municipio_id": "2412"
+      },
+      {
+        
+        "id": "183",
+        "nombre": "Centro de Estudios Tecnol�gicos Industriales y de Servicios N�m. 113",
+        "clave": "32DCT0352C",
+        "subnivel_id": "1",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "184",
+        "nombre": "Centro de Estudios Tecnol�gicos Industrales y de Servicios N�m. 114",
+        "clave": "32DCT0353B",
+        "subnivel_id": "1",
+        "municipio_id": "2425"
+      },
+      {
+        
+        "id": "185",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 166",
+        "clave": "32DTA0001A",
+        "subnivel_id": "1",
+        "municipio_id": "2438"
+      },
+      {
+        
+        "id": "186",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 137",
+        "clave": "32DTA0002Z",
+        "subnivel_id": "1",
+        "municipio_id": "2450"
+      },
+      {
+        
+        "id": "187",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 167",
+        "clave": "32DTA0003Z",
+        "subnivel_id": "1",
+        "municipio_id": "2454"
+      },
+      {
+        
+        "id": "188",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 138",
+        "clave": "32DTA0004Y",
+        "subnivel_id": "1",
+        "municipio_id": "2459"
+      },
+      {
+        
+        "id": "189",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 188",
+        "clave": "32DTA0005X",
+        "subnivel_id": "1",
+        "municipio_id": "2460"
+      },
+      {
+        
+        "id": "190",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 189",
+        "clave": "32DTA0006W",
+        "subnivel_id": "1",
+        "municipio_id": "2419"
+      },
+      {
+        
+        "id": "191",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 20",
+        "clave": "32DTA0020P",
+        "subnivel_id": "1",
+        "municipio_id": "2444"
+      },
+      {
+        
+        "id": "192",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario N�m. 88",
+        "clave": "32DTA0088W",
+        "subnivel_id": "1",
+        "municipio_id": "2441"
+      },
+      {
+        
+        "id": "193",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario Num.285",
+        "clave": "32DTA0285X",
+        "subnivel_id": "1",
+        "municipio_id": "2458"
+      },
+      {
+        
+        "id": "194",
+        "nombre": "Centro de Bachillerato Tecnol�gico Agropecuario Num.286",
+        "clave": "32DTA0286W",
+        "subnivel_id": "1",
+        "municipio_id": "2428"
+      },
+      {
+        
+        "id": "195",
+        "nombre": "Centro de Estudios Cient�ficos y Tecnol�gicos del Estado",
+        "clave": "32ETC0008R",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "196",
+        "nombre": "Centro de Estudios Cient�ficos y Tecnol�gicos del Estado",
+        "clave": "32ETC0008R",
+        "subnivel_id": "1",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "197",
+        "nombre": "Instituto Universitario Metropolitano",
+        "clave": "32PET0001B",
+        "subnivel_id": "3",
+        "municipio_id": "2461"
+      },
+      {
+        
+        "id": "198",
+        "nombre": "Escuela de Enfermer�a  Beatriz Gonz�lez Ortega",
+        "clave": "32EET0003U",
+        "subnivel_id": "3",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "199",
+        "nombre": "Colegio de Educaci�n Profesional T�cnica del Estado de Zacatecas",
+        "clave": "32DPT0001C",
+        "subnivel_id": "4",
+        "municipio_id": "2422"
+      },
+      {
+        
+        "id": "200",
+        "nombre": "Colegio de Educaci�n Profesional T�cnica del Estado de Zacatecas",
+        "clave": "32DPT0002B",
+        "subnivel_id": "4",
+        "municipio_id": "2415"
+      },
+      {
+        
+        "id": "201",
+        "nombre": "Colegio de Educaci�n Profesional T�cnica del Estado de Zacatecas",
+        "clave": "32DPT0003A",
+        "subnivel_id": "4",
+        "municipio_id": "2431"
+      },
+      {
+        
+        "id": "202",
+        "nombre": "Centro de Estudios Cient�ficos y Tecnol�gicos 18 �Zacatecas�",
+        "clave": "32DPN0001S",
+        "subnivel_id": "1",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "203",
+        "nombre": "COBAEE",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "204",
+        "nombre": "CECYT 18",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "205",
+        "nombre": "",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "206",
+        "nombre": "",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "207",
+        "nombre": "",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "208",
+        "nombre": "",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "209",
+        "nombre": "",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "210",
+        "nombre": "CECyT 18",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "211",
+        "nombre": "Salvador Varela Resendiz",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "212",
+        "nombre": "INSTITUTO UNIVERSITARIO DEL CENTRO DE M�XICO",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "213",
+        "nombre": "Colegio de bachilleres plantel villa de cos",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        "id": "214",
+        "nombre": "Colegio de Bachilleres del estado de Zacatecas plantel 07 ojocali",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2441"
+      },
+      {
+        "id": "215",
+        "nombre": "Instituto Polit�cnico Nacional",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "216",
+        "nombre": "CECyTEZ Tlaltenango",
+        "clave": "Desconocida",
+        "subnivel_id": "3",
+        "municipio_id": "2453"
+      },
+      {
+        "id": "217",
+        "nombre": "Universidad aut�noma de zacatecas preparatoria #4",
+        "clave": "Desconocida",
+        "subnivel_id": "1",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "218",
+        "nombre": "Universidad Aut�noma de Zacatecas Plantel IV",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2418"
+      },
+      {
+        "id": "219",
+        "nombre": "Instituto Miguel Agust�n Pro",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "220",
+        "nombre": "Unidad Acad�mica Preparatoria Programa IV",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "221",
+        "nombre": "Universidad Autonoma de Zacatecas Unidad Academica Preparatora 4",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2414"
+      },
+      {
+        "id": "222",
+        "nombre": "emsad ramon lopez velarde",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        "id": "223",
+        "nombre": "EMSaD Ramon L�pez Velarde",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        "id": "224",
+        "nombre": "Educaci�n Media Superior a Distancia \"Ramon Lopez Velarde\"",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        "id": "225",
+        "nombre": "EMSaD El Rucio",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        "id": "226",
+        "nombre": "EMSaD El Rucio",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        "id": "227",
+        "nombre": "EMSaD CECYTEZ EL RUCIO VILLA DE COS ZACATECAS",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2456"
+      },
+      {
+        "id": "228",
+        "nombre": "Escuela preparatoria estatal � Victor Rosales �",
+        "clave": "Desconocida",
+        "subnivel_id": "6",
+        "municipio_id": "2410"
+      },
+      {
+        "id": "229",
+        "nombre": "Preparatoria Estatal V�ctor Rosales",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2410"
+      },
+      {
+        "id": "230",
+        "nombre": "Preparatoria #1 UAZ",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "231",
+        "nombre": "Universidad Aut�noma de Zacatecas Programa 1",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "232",
+        "nombre": "Roberto Cabral del Hoyo Cobaez",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "233",
+        "nombre": "univeraidas autonoma de zacatecas programa lV",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "234",
+        "nombre": "Cbta 138",
+        "clave": "Desconocida",
+        "subnivel_id": "1",
+        "municipio_id": "2459"
+      },
+      {
+        "id": "235",
+        "nombre": "Cbta 138",
+        "clave": "Desconocida",
+        "subnivel_id": "1",
+        "municipio_id": "2459"
+      },
+      {
+        "id": "236",
+        "nombre": "Cbta 138",
+        "clave": "Desconocida",
+        "subnivel_id": "1",
+        "municipio_id": "2459"
+      },
+      {
+        "id": "237",
+        "nombre": "Cbta 138",
+        "clave": "Desconocida",
+        "subnivel_id": "1",
+        "municipio_id": "2459"
+      },
+      {
+        "id": "238",
+        "nombre": "Universidad Aut�noma de Zacatecas programa IV",
+        "clave": "Desconocida",
+        "subnivel_id": "5",
+        "municipio_id": "2461"
+      },
+      {
+        "id": "239",
+        "nombre": "Colegio de bachilleres del estado de Zacatecas",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2454"
+      },
+      {
+        "id": "240",
+        "nombre": "Liceo E.S.L. Guadalupe",
+        "clave": "Desconocida",
+        "subnivel_id": "2",
+        "municipio_id": "2461"
+      }
+  
+    ]
+  
+  }
+
